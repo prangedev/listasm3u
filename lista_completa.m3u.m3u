@@ -1,0 +1,93 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
+
+###############################################
+# ABERTOS - SP|SUL|Sudeste
+###############################################
+#EXTINF:-1 tvg-id="TVGloboSP.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Globo_logo.png/240px-Globo_logo.png" group-title="ABERTOS - SP|SUL|Sudeste",TV Globo (SP)
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="ABERTOS - SP|SUL|Sudeste",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TV_Brasil_logo.png/240px-TV_Brasil_logo.png" group-title="ABERTOS - SP|SUL|Sudeste",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/TV_Aparecida_logo.png" group-title="ABERTOS - SP|SUL|Sudeste",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="ABERTOS - SP|SUL|Sudeste",TV A Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="ABERTOS - SP|SUL|Sudeste",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="ABERTOS - SP|SUL|Sudeste",RBA TV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="ABERTOS - SP|SUL|Sudeste",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="ABERTOS - SP|SUL|Sudeste",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="ABERTOS - SP|SUL|Sudeste",TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="ABERTOS - SP|SUL|Sudeste",TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="ABERTOS - SP|SUL|Sudeste",EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="ABERTOS - Norte|Centro-Oeste",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-logo="https://i.imgur.com/e67h04h.png" group-title="ABERTOS - Norte|Centro-Oeste",TV Cidade Verde
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="ABERTOS - SP|SUL|Sudeste",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UMATV.br" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="ABERTOS - SP|SUL|Sudeste",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AWTV.br" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="ABERTOS - SP|SUL|Sudeste",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+###############################################
+# NOTÍCIAS
+###############################################
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/CNN_Brasil_logo.png" group-title="NOTÍCIAS",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="NOTÍCIAS",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/BandNews_logo.png" group-title="NOTÍCIAS",BandNews
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="NOTÍCIAS",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="NOTÍCIAS",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="NOTÍCIAS",VEJA+ TV
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="NOTÍCIAS",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+###############################################
+# ESPORTES
+###############################################
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BandSports_logo.png" group-title="ESPORTES",Band Sports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="NSports.br" tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="ESPORTES",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+
+###############################################
+# FECHADOS - Entretenimento | Séries & Cinema | Infantil
+###############################################
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" group-title="FECHADOS - Entretenimento",Comedy Central
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="Lke.br" tvg-logo="https://i.imgur.com/chHsCzB.png" group-title="FECHADOS - Entretenimento",L!ke
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="FECHADOS - Cinema & Séries",Sony Channel
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="FECHADOS - Cinema & Séries",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="FECHADOS - Entretenimento",Fora Tédio TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" group-title="FECHADOS - Infantil",Nickelodeon
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+###############################################
+# RELIGIOSOS
+###############################################
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="RELIGIOSOS",TV Canção Nova
+https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="RELIGIOSOS",RIT TV
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="RELIGIOSOS",Rede Vida
+https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="RELIGIOSOS",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
